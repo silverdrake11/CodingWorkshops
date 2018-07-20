@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [1. Python Project Night - Hands on Python programming for Chicago Pythonistas](#1-python-project-night---hands-on-python-programming-for-chicago-pythonistas)
+- [1. Python Project Night - Hands on Python programming for Chicago Pythonistas](#1-python-project-night-=]]--hands-on-python-programming-for-chicago-pythonistas)
     - [1.1. Code of Conduct](#11-code-of-conduct)
     - [1.2. Contributors](#12-contributors)
     - [1.3. Challenge Problems](#13-challenge-problems)
